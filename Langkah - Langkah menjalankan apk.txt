@@ -1,0 +1,6 @@
+Langkah - Langkah mnenjalankan apk
+
+upgrade pyqt/python ke versi terbaru
+2. install pip install reportlab di terminal vscode
+3. install pip install -r requirements.txt di terminal vscode
+4. Lalu run file main.py
